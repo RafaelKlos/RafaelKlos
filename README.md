@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RafaelKlos
-- 👀 I’m interested in movies, wood working, studing engineering and programming with a focus on data analysis
+- 👀 I’m interested in movies and wood working, I'm currently studing Production Engineering and programming with a focus on Data Analysis and Analytics
 - 🌱 I’m currently learning Python, R and SQL
 - 📫 How to reach me rafaelfklos@gmail.com
 
