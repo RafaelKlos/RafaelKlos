@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RafaelKlos
-- 👀 I’m interested in movies, wood working, studing engineering and programming, right now, focused on data analysis
-- 🌱 I’m currently learning Python and R
-- 💞️ I’m looking to collaborate on projects to help me build a solid understand of R.
+- 👀 I’m interested in movies, wood working, studing engineering and programming with a focus on data analysis
+- 🌱 I’m currently learning Python, R and SQL
 - 📫 How to reach me rafaelfklos@gmail.com
 
 <!---
